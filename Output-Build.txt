@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: my project 1, Configuration: Debug Any CPU ------
+1>  my project 1 -> C:\Users\113\Documents\Visual Studio 2015\Projects\my project 1\my project 1\bin\Debug\my project 1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
