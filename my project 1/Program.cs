@@ -10,6 +10,7 @@ namespace my_project_1
     {
         static void Main(string[] args)
         {
+            // this is my first course
             Console.Write("Hello my name is Ibrahim I from Iraq");
             Console.Write(" I love you can you help my to learn"); 
                Console.Write(" porgriming and English ");
